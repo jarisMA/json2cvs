@@ -1,0 +1,23 @@
+{
+  "name": "@jarisMA/json2csv",
+  "version": "1.0.0",
+  "description": "Convert JSON file to CVS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "excel"
+  ],
+  "author": "jarisMA",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarisMA/json2cvs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jarisMA/json2cvs/issues"
+  },
+  "homepage": "https://github.com/jarisMA/json2cvs#readme"
+}
