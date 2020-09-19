@@ -1,6 +1,6 @@
 # Installation
 ```
-npm install @jarisMA/json2csv
+npm install @jarisma/json2csv
 ```
 
 # Usage examples
